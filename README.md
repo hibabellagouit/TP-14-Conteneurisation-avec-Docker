@@ -39,6 +39,9 @@ le port exposé par l’application ;
 la commande exécutée au démarrage.
 
 L’image Docker est ensuite construite et vérifiée.
+<img width="1366" height="728" alt="TP 14  Conteneurisation avec Docker – docker-compose yml 29_11_2025 20_14_39" src="https://github.com/user-attachments/assets/eab509e0-f8cc-424a-8338-4edd6ef2df5f" />
+
+
 
 ▶️ 3. Exécution de l’Application dans un Conteneur
 
